@@ -32,6 +32,6 @@ IPsec PSK: gcsl2tp
 Username: $VPN_USER
 Password: $VPN_PASSWORD
 
-By Horasss
+By gcsumardani.my.id
 =================================
 EOF
